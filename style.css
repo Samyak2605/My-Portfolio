@@ -317,3 +317,9 @@ form .btn2{
 
 /*------responsive-----*/
 
+#msg{
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
+
+}
